@@ -1,3 +1,5 @@
+![Image alt](https://github.com/kozar1994/todu-react/raw/master/Screenshot_1.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
